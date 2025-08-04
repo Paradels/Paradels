@@ -66,8 +66,3 @@ Formulario interactivo validado en tiempo real con JavaScript moderno y JSX.
 
 ---
 
-### ⚡ Fun Fact
-
-> 🏀 También soy jugador y árbitro de baloncesto a nivel nacional. ¡La cancha y el código son mis pasiones!
-
----
