@@ -18,11 +18,21 @@
 
 ### 🚀 Proyectos Destacados
 
-🌐 [**Paradels.Portfolio.io**](https://github.com/Paradels/Paradels.Portfolio.io)  
-Proyecto final y portafolio personal, construido con React, JSX y diseño responsivo.
+💻 React / JavaScript
+🌐 Paradels.Portfolio.io
 
-📝 [**Formulario-Js-and-jsx**](https://github.com/Paradels/Formulario-Js-and-jsx)  
-Formulario interactivo validado en tiempo real con JavaScript moderno y JSX.
+Portafolio personal y proyecto final, construido con React, JSX y diseño responsivo.
+📝 Formulario-Js-and-jsx
+
+Formulario interactivo con validación en tiempo real usando JavaScript moderno y JSX.
+⚡ .NET
+🔗 MarketingAPI
+
+API desarrollada en .NET para gestionar campañas de marketing y ofrecer endpoints RESTful eficientes.
+🖥️ Vue.js
+🔍 Mini-Modulo-Audit
+
+Módulo interactivo en Vue.js, ideal para auditorías y fácil integración en proyectos existentes.
 
 ---
 
