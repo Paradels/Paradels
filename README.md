@@ -54,8 +54,10 @@
 ---
 
 ### 📊 GitHub Stats
-
-<div align="center"> ![Paradels's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paradels&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paradels&layout=compact&theme=tokyonight&hide_border=true) </div>
+<div align="center">
+![Paradels's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paradels&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paradels&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+</div>
 ---
 
 ### 📫 Conecta conmigo
