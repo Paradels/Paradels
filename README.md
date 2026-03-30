@@ -10,29 +10,28 @@
 
 ### 📌 Sobre mí
 
-🎓 Graduado en Desarrollo de Aplicaciones Web.  
-💻 Amante del código limpio, el diseño funcional y la innovación digital.  
-🎯 Siempre aprendiendo y mejorando para crear soluciones útiles y escalables.  
+🎓 Graduado en Desarrollo de Aplicaciones Web  
+💻 Amante del código limpio, el diseño funcional y la innovación digital  
+🎯 Siempre aprendiendo y mejorando para crear soluciones útiles y escalables  
 
 ---
 
 ### 🚀 Proyectos Destacados
 
-💻 React / JavaScript
-🌐 Paradels.Portfolio.io
+#### 💻 React / JavaScript
+- 🌐 [**Paradels.Portfolio.io**](https://github.com/Paradels/Paradels.Portfolio.io)  
+  Portafolio personal y proyecto final, construido con **React**, **JSX** y diseño **responsivo**.
 
-Portafolio personal y proyecto final, construido con React, JSX y diseño responsivo.
-📝 Formulario-Js-and-jsx
+- 📝 [**Formulario-Js-and-jsx**](https://github.com/Paradels/Formulario-Js-and-jsx)  
+  Formulario interactivo con **validación en tiempo real** usando **JavaScript moderno** y **JSX**.
 
-Formulario interactivo con validación en tiempo real usando JavaScript moderno y JSX.
-⚡ .NET
-🔗 MarketingAPI
+#### ⚡ .NET
+- 🔗 [**MarketingAPI**](https://github.com/Paradels/MarketingAPI)  
+  API desarrollada en **.NET** para gestionar campañas de marketing y ofrecer endpoints **RESTful** eficientes.
 
-API desarrollada en .NET para gestionar campañas de marketing y ofrecer endpoints RESTful eficientes.
-🖥️ Vue.js
-🔍 Mini-Modulo-Audit
-
-Módulo interactivo en Vue.js, ideal para auditorías y fácil integración en proyectos existentes.
+#### 🖥️ Vue.js
+- 🔍 [**Mini-Modulo-Audit**](https://github.com/Paradels/Mini-Modulo-Audit)  
+  Módulo interactivo en **Vue.js**, ideal para auditorías y fácil integración en proyectos existentes.
 
 ---
 
@@ -47,6 +46,8 @@ Módulo interactivo en Vue.js, ideal para auditorías y fácil integración en p
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
+![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?logo=vue.js&logoColor=white&style=for-the-badge)
+![.NET](https://img.shields.io/badge/-.NET-512bd4?logo=dotnet&logoColor=white&style=for-the-badge)
 
 </div>
 
@@ -73,6 +74,3 @@ Módulo interactivo en Vue.js, ideal para auditorías y fácil integración en p
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
----
-
